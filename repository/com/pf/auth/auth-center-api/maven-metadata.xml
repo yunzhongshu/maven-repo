@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.pf.auth</groupId>
+  <artifactId>auth-center-api</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180502084852</lastUpdated>
+  </versioning>
+</metadata>
